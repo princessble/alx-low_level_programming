@@ -4,7 +4,7 @@
        * followed by a new line.
      */
 void print_alphabet_x10(void);
-	{
+{
 		char ch;
 		int i;
 
@@ -23,7 +23,7 @@ void print_alphabet_x10(void);
 			_putchar('\n');
 			i++;
 		}
-	}
+}
 
 
 
