@@ -1,8 +1,4 @@
 #ifndef main_h
-/**
-* main -> main function
-* Return: 0 success
-*/
 #define main_h
 
 
