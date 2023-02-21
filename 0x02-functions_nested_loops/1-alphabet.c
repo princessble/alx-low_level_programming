@@ -2,8 +2,8 @@
 
 
 	/**
-	* print_alphabet -> print_alphabet
-return: 0 success
+	 * main -> function print alphabet
+	 * Return: 0 success
 	 */
 
 
@@ -13,8 +13,4 @@ return: 0 success
 
 
 		for (letter = 'a'; letter <= 'z'; letter++)
-			_putchar(letter);
-
-
-		_putchar('\n');
-	}
+			_putch
