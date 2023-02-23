@@ -1,6 +1,6 @@
 /*
  * File: 1-isdigit.c
- * Auth: Brennan D Baraban
+ * Auth: princessble
  */
 
 #include "main.h"
